@@ -14,11 +14,11 @@ Syntax highlighted code block
 # Saran Nagubandi's First CS193 Lab
 ### Header 3
 
-**Reasons why I like CS 193:**
+Reasons why I like CS 193:/B
 1. Student-led Teaching
 2. Jokes hit better than other classes
 
-_Italic Test_
+_Italic Test//I
 
 1. Numbered
 2. List

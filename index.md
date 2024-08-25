@@ -12,12 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Saran Nagubandi's First CS193 Lab
-## Header 2
 ### Header 3
 
--Reasons why I like CS 193
-- Student-led Teaching
--Jokes hit better than other classes
+**Reasons why I like CS 193:**
+1. Student-led Teaching
+2. Jokes hit better than other classes
+
+_Italic Test_
 
 1. Numbered
 2. List

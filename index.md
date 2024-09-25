@@ -21,6 +21,8 @@ Reasons why I like CS 193:/B
 1. Student-led Teaching
 2. Jokes hit better than other classes
 
+- Bulleted List #1
+- Bullted List #2
 _Italic Test//I
 
 1. Numbered

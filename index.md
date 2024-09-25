@@ -14,7 +14,7 @@ _Italics Test_
 ```markdown
 Syntax highlighted code block
 
-# Saran Nagubandi's First CS193 HOMEWORK 0
+# Saran Nagubandi's First CS193 LAB HOMEWORK 0
 ### Header 3
 
 Reasons why I like CS 193:/B

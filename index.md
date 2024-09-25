@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #Reasons why I like CS 193: 
 1. Student led teaching
-2. Jokes are decent
+2. Jokes are make me chuckle
 
 Foods I like:
 -Bagels
@@ -26,7 +26,7 @@ Syntax highlighted code block
 # Saran Nagubandi's First CS193 LAB HOMEWORK 0
 ### Header 3
 
-Reasons why I like CS 193:/B
+Reasons why I like CS 193 2024:/B
 1. Student-led Teaching
 2. Jokes hit better than other classes
 
